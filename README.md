@@ -1,6 +1,6 @@
 # Linux Assignment #2 — Group 14
 
-**Course:** <Course name/section>  
+**Course:**  Linux System Administration 
 **Instructor:** Anmar  
 **Group Members:** Gursimranpreet Kaur, Prakarsh,Rohan
 
