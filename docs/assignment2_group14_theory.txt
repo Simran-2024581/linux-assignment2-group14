@@ -1,0 +1,18 @@
+Q1. What are special path symbols ., .., ~ used for in Linux?
+
+. means the current directory — it is used to refer to files or run commands from where you currently are (e.g., ./run.sh).
+
+.. means the parent directory, one level above your current folder (e.g., cd .. moves up one level).
+
+~ stands for the home directory of the current user and is a shortcut for paths like /home/user1/.
+
+Q2. Briefly describe the purpose of these directories: bin/, etc/, var/, and media/.
+
+bin/ contains essential binary executables and commands used by all users (e.g., ls, cp).
+
+etc/ stores system-wide configuration files that control how the system and applications behave.
+
+var/ holds variable data that changes frequently, like logs, caches, and temporary files.
+
+media/ is used as a mount point for removable media, such as USB drives or DVDs.
+
